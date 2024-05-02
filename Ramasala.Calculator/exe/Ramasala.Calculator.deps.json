@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ramasala.Calculator/1.0.0": {
+        "runtime": {
+          "Ramasala.Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ramasala.Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
